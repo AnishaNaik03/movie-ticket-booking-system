@@ -1,0 +1,68 @@
+/* body {
+    padding:0;
+    margin: 0;
+    font-family: "Times New Roman", Times, serif;
+    background: url('theatre.jpg');
+    background-size: cover;
+  } */
+  .bg{
+    background-color: #48292e;
+    background: url('theatre.jpg');
+    background-size: cover;
+  }
+  /* img{
+    margin-left:500px;
+} */
+.logo{
+  color: #fcfafa;
+  font-style: italic;
+  font-weight: bold;
+  text-shadow: #220303;
+  text-decoration-color: #220303;
+}
+.logo1{
+  color: #220303;
+  font-style: italic;
+  font-weight: bolder;
+  text-shadow: #f9f9f9;
+  text-decoration-color: #f1eeee;
+}
+.logo3{
+  color: #e32431;
+
+}
+  .topnav {
+    overflow: hidden;
+    background-color:#291212;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #8c5d5d;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #441b20;
+    color: white;
+  }
+  .topnav .search-container {
+    float: right;
+  }
+
+  .topnav input[type=text] {
+    padding: 2px;
+    font-size: 20px;
+    border: none;
+    width: 500px;
+  }
+
+ 
